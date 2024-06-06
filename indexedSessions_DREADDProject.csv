@@ -1,3 +1,2 @@
 SessionName,Subject,Path,Strain,GeneticLine,Behavior,numCells,brainRegions,Drug,Project
-dreadd1_300524_sess13,dreadd1,dreadd1\dreadd1_300524_sess13,c57b1/6,wild type,tmaze,20,CA1_right PTLp_right CA1_left CA3_left,no,DREADDProject
 dreadd1_200524_sess5,dreadd1,dreadd1\dreadd1_200524_sess5,c57b1/6,wild type,no,66,CA1_right PTLp_right CA1_left CA3_left,no,DREADDProject
