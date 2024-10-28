@@ -1,15 +1,3 @@
 SessionName,Subject,Path,Strain,GeneticLine,Behavior,numCells,Drug,Project
-dreadd1_200524_sess5,dreadd1,dreadd1\dreadd1_200524_sess5,c57b1/6,wild type,no,66,no,DREADDProject
-dreadd1_280524_sess11,dreadd1,dreadd1\dreadd1_280524_sess11,c57b1/6,wild type,tmaze,40,no,DREADDProject
-dreadd1_300524_sess13,dreadd1,dreadd1\dreadd1_300524_sess13,c57b1/6,wild type,tmaze,20,acute cno,DREADDProject
-dreadd2_290524_sess1,dreadd2,dreadd2\dreadd2_290524_sess1,c57b1/6,wild type,no,122,no,DREADDProject
-dreadd4_200924_sess9,dreadd4,dreadd4\dreadd4_200924_sess9,c57b1/6,wild type,dtm,84,cno,DREADDProject
-dreadd5_180924_sess8,dreadd5,dreadd5\dreadd5_180924_sess8,c57b1/6,wild type,dtm,29,placebo,DREADDProject
-dreadd4_160924_sess6,dreadd4,dreadd4\dreadd4_160924_sess6,c57b1/6,wild type,dtm,102,no,DREADDProject
-dreadd4_180924_sess8,dreadd4,dreadd4\dreadd4_180924_sess8,c57b1/6,wild type,dtm,98,cno,DREADDProject
-dreadd4_170924_sess7,dreadd4,dreadd4\dreadd4_170924_sess7,c57b1/6,wild type,dtm,16,placebo,DREADDProject
-dreadd1_160524_sess3,dreadd1,dreadd1\dreadd1_160524_sess3,c57b1/6,wild type,no,23,no,DREADDProject
-dreadd3_250724_sess14,dreadd3,dreadd3\dreadd3_250724_sess14,c57b1/6,wild type,dtm,108,placebo,DREADDProject
-dreadd3_270824_sess21,dreadd3,dreadd3\dreadd3_270824_sess21,c57b1/6,wild type,dtm,39,chronic cno - placebo,DREADDProject
 dreadd3_260724_sess15,dreadd3,dreadd3\dreadd3_260724_sess15,c57b1/6,wild type,dtm,66,cno,DREADDProject
-dreadd3_280824_sess22,dreadd3,dreadd3\dreadd3_280824_sess22,c57b1/6,wild type,dtm,49,chronic cno - cno,DREADDProject
+dreadd3_260724_sess15,dreadd3,dreadd3\dreadd3_260724_sess15,c57b1/6,wild type,dtm,39,cno,DREADDProject
