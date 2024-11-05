@@ -2,3 +2,4 @@ SessionName,Subject,Path,Strain,GeneticLine,Behavior,numCells,Drug,Project
 dreadd3_260724_sess15,dreadd3,dreadd3\dreadd3_260724_sess15,c57b1/6,wild type,dtm,39,cno,DREADDProject
 dreadd3_280824_sess22,dreadd3,dreadd3\dreadd3_280824_sess22,c57b1/6,wild type,dtm,28,chronic cno - cno,DREADDProject
 dreadd3_270824_sess21,dreadd3,dreadd3\dreadd3_270824_sess21,c57b1/6,wild type,dtm,39,chronic cno - placebo,DREADDProject
+dreadd3_250724_sess14,dreadd3,dreadd3\dreadd3_250724_sess14,c57b1/6,wild type,dtm,108,placebo,DREADDProject
