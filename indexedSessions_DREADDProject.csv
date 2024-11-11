@@ -2,7 +2,6 @@ SessionName,Subject,Path,Strain,GeneticLine,Behavior,numCells,Drug,Project
 dreadd3_260724_sess15,dreadd3,dreadd3\dreadd3_260724_sess15,c57b1/6,wild type,dtm,39,cno,DREADDProject
 dreadd3_280824_sess22,dreadd3,dreadd3\dreadd3_280824_sess22,c57b1/6,wild type,dtm,28,chronic cno - cno,DREADDProject
 dreadd3_270824_sess21,dreadd3,dreadd3\dreadd3_270824_sess21,c57b1/6,wild type,dtm,39,chronic cno - placebo,DREADDProject
-dreadd3_250724_sess14,dreadd3,dreadd3\dreadd3_250724_sess14,c57b1/6,wild type,dtm,108,placebo,DREADDProject
 dreadd4_221024_sess15,dreadd4,dreadd4\dreadd4_221024_sess15,c57b1/6,wild type,dtm,0,chronic cno - placebo,DREADDProject
 dreadd1_020724_sess19,dreadd1,dreadd1\dreadd1_020724_sess19,c57b1/6,wild type,dtm,0,chronic cno,DREADDProject
 dreadd1_290524_sess12,dreadd1,dreadd1\dreadd1_290524_sess12,c57b1/6,wild type,dtm,0,no,DREADDProject
@@ -11,3 +10,4 @@ dreadd2_080824_sess28,dreadd2,dreadd2\dreadd2_080824_sess28,c57b1/6,wild type,dt
 dreadd4_180924_sess8,dreadd4,dreadd4\dreadd4_180924_sess8,c57b1/6,wild type,dtm,0,cno,DREADDProject
 dreadd4_170924_sess7,dreadd4,dreadd4\dreadd4_170924_sess7,c57b1/6,wild type,dtm,0,placebo,DREADDProject
 dreadd3_250724_sess14,dreadd3,dreadd3\dreadd3_250724_sess14,c57b1/6,wild type,dtm,48,placebo,DREADDProject
+dreadd3_270824_sess21,dreadd3,dreadd3\dreadd3_270824_sess21,c57b1/6,wild type,dtm,26,chronic cno - placebo,DREADDProject
